@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "Living Room Light",
+        "type": "light",
+        "status": 0,
+        "value": 0
+    },
+    {
+        "id": "2",
+        "name": "AC",
+        "type": "thermostat",
+        "status": 0,
+        "value": 22
+    },
+    {
+        "id": "3",
+        "name": "Door",
+        "type": "lock",
+        "status": 0,
+        "value": 0
+    },
+    {
+        "id": "4",
+        "name": "Ambient Sensors",
+        "type": "ambient",
+        "status": 1,
+        "value": 0
+    }
+]
