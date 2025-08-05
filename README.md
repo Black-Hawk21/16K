@@ -87,7 +87,7 @@ A machine learning model that predicts future energy usage based on historical d
 ## Contributors
 
 - [Snehal Sharma](https://github.com/SnehalSharma05)
-- [Shubhranil Basak](https://github.com/Shubhranil-Basak)
+- [Shubhranil Basak](https://github.com/Black-Hawk21)
 - [Hemanth Mada](https://github.com/Hemanth-Mada)
 
 For more details on individual contributions, please visit the contributors' GitHub profiles.
